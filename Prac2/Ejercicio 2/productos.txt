@@ -1,0 +1,7 @@
+1001 85.50 150 30 LimpiadorMultiuso
+1002 40.00 200 50 DetergenteConcentrado
+1003 15.75 75 25 EsponjaSuave
+1004 99.99 20 50 DesinfectanteFloral
+1005 55.00 10 15 Limpiavidrios
+1006 30.25 40 20 JabónLíquido
+1007 12.80 100 30 PañoMicrofibra
