@@ -1,0 +1,6 @@
+10000 20000 102 BuenosAires
+1000 3000 501 Cordoba
+2000 3000 302 Cordoba
+3100 5000 202 Mendoza
+4000 8000 601 Mendoza
+500 1000 402 Tucuman

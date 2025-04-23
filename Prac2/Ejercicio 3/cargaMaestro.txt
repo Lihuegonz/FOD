@@ -1,0 +1,5 @@
+1000 2000 BuenosAires
+5000 10000 Cordoba
+7000 15000 SantaFe
+13000 30000 Mendoza
+15000 20000 Tucuman
